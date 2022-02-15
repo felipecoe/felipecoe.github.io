@@ -3,3 +3,10 @@ title: Felipe Coe
 description: All things security
 excerpt_separator: <!--more-->
 google_analytics: G-1WPQCX75V6
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
