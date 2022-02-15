@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Annual security conferences
 
 This is a quick list of security conferences in Germany and some around the world.
